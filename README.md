@@ -1,2 +1,3 @@
 # Ardenn.es installation script
-install it
+Converts a linux install to ardenn.es themed linux.
+Under GPvL3 
