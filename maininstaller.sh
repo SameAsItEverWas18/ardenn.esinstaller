@@ -1,4 +1,5 @@
 # doas insaller/sudo uninstaller
+cd ~/ardenn.esinstaller
 chmod +x kekmainstaller.sh
 ./kekmainstaller.sh
 
@@ -35,3 +36,5 @@ fi
 > /etc/hostname
 echo "officialardenndotesmachine" >> /etc/hostname
 usermod -l ardenndotessubscriber *
+
+done
